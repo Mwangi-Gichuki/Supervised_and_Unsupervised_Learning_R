@@ -1,7 +1,4 @@
-# Supervised_and_Unsupervised_Learning_R
-
 # Supervised  and Unspervised Learning in R
-
 
 #### -- Project Status: [Active]
 
